@@ -15,7 +15,7 @@
   "keywords": [],
   "engines": {
     "node": "11.6.0"
-    },
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -23,6 +23,7 @@
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
     "helmet": "^3.15.1",
+    "heroku": "^7.22.3",
     "knex": "^0.16.3",
     "morgan": "^1.9.1",
     "pg": "^7.8.1",
